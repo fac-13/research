@@ -1,6 +1,10 @@
-# REGEX
+# REGEX PRESENTATION
 
-## INTRODUCTION
+## Presentation Link with Repl examples
+https://docs.google.com/presentation/d/1ZQwmUWKE5sQj_z8yYSKQ4nGhLJvAxFDmy4NnSkX_S0o/edit?usp=sharing
+
+
+## RESEARCH
 
 ### BASICS
 - start : ^
@@ -133,7 +137,3 @@ https://regex101.com/
 http://eloquentjavascript.net/09_regexp.html # regex chapter of eloquent javascript
 https://www.w3schools.com/jsref/jsref_obj_regexp.asp
 
-
-
-## Presentation Link with Repl examples
-https://docs.google.com/presentation/d/1ZQwmUWKE5sQj_z8yYSKQ4nGhLJvAxFDmy4NnSkX_S0o/edit?usp=sharing
