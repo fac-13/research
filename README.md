@@ -6,6 +6,7 @@ Please create a markdown file with your research in named using kebab-case. Plac
 Any extra resources you find and think would be useful to your cohort add to the extra resources section with links to appropriate websites or markdown files.
 
 ### Week 1
+[Regex Presentation](https://docs.google.com/presentation/d/1ZQwmUWKE5sQj_z8yYSKQ4nGhLJvAxFDmy4NnSkX_S0o/edit#slide=id.g343407d4b5_0_40)
 
 ### Week 2
 
