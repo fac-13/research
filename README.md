@@ -7,7 +7,8 @@ Any extra resources you find and think would be useful to your cohort add to the
 
 ### Week 1
 ##### [Regex](https://github.com/fac-13/research/blob/week-1-folder/week-1/RegexResearch.md)
-
+##### [Command Line](https://github.com/fac-13/research/blob/master/week-1/CL.md)
+---
 ### Week 2
 
 ### Week 3
