@@ -135,6 +135,11 @@ Code coverage tools can help determine if you have extra functions/code that you
 
 There are two views for the coverage report:
 
+**LCOV view**
+![LCOV view](https://cdn-images-1.medium.com/max/1600/0*BlKQEGJ3qgJRrL_L.png)
+
+**CLI view**
+![CLI view](https://ariya.io/images/2013/05/istanbul_limits.png)
 
 #### Extra Fun Fact: 
 
