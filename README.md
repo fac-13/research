@@ -12,6 +12,7 @@ Any extra resources you find and think would be useful to your cohort add to the
 ### Week 2
 ##### [DOM manipulation](https://hackmd.io/tiUez2TjSrScUSQye8T1hA)
 ##### [Technical Spikes](https://hackmd.io/UaJt9A-RSt66Zgy936GiHg?view)
+##### [Test Coverage](https://github.com/fac-13/research/blob/master/week-2/test-coverage.md)
 
 ### Week 3
 

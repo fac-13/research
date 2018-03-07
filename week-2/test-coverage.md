@@ -1,8 +1,3 @@
----
-slideOptions:
-  transition: slide
----
-
 # TEST COVERAGE - A TEST FOR UR TESTS
 
 <iframe src="https://giphy.com/embed/Rkis28kMJd1aE" width="480" height="317" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
