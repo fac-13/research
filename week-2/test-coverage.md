@@ -168,6 +168,20 @@ You can use is like the old Istanbul like so:
 $ npm test
 ```
 
+If you would like to use the browser LCOV view with ```coverage``` output folder, you need to update the your package.json scripts like so: 
+
+```js
+ "scripts": {
+    "test": "nyc tape logic.test.js | tap-spec", 
+    "coverage": "nyc --reporter=lcov --reporter=text-lcov tape logic.test.js | tap-spec" 
+  },
+```
+To run coverage, you need to use ```npm run coverage``` as ```coverage``` is not a default npm command. 
+
+More info here: https://www.npmjs.com/package/nyc
+
+
+
 # LIVE DEMO TIME!
 <iframe src="https://giphy.com/embed/5GoVLqeAOo6PK" width="480" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
