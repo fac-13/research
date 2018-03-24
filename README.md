@@ -17,6 +17,7 @@ Any extra resources you find and think would be useful to your cohort add to the
 ### Week 3
 
 ### Week 4
+##### [Engineering](https://github.com/fac-13/research/blob/master/week-4/engineering.md)
 
 ### Week 5
 
