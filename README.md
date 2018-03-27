@@ -21,6 +21,8 @@ Any extra resources you find and think would be useful to your cohort add to the
 
 ### Week 5
 
+[HTTP and Request modules](https://hackmd.io/omgzusXTRiqQlV4A4V9njg?both) 
+
 ### Week 6
 
 ### Week 7
