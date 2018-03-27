@@ -8,6 +8,7 @@ Any extra resources you find and think would be useful to your cohort add to the
 ### Week 1
 ##### [Regex](https://github.com/fac-13/research/blob/week-1-folder/week-1/RegexResearch.md)
 ##### [Command Line](https://github.com/fac-13/research/blob/master/week-1/CL.md)
+##### [CSS](https://docs.google.com/presentation/d/1GM3mbJtD5Gid4hNjO7FJ69xawm7SFKXyQ5BqwSE2a1c/edit?usp=sharing)
 ---
 ### Week 2
 ##### [DOM manipulation](https://hackmd.io/tiUez2TjSrScUSQye8T1hA)
@@ -18,10 +19,10 @@ Any extra resources you find and think would be useful to your cohort add to the
 
 ### Week 4
 ##### [Engineering](https://github.com/fac-13/research/blob/master/week-4/engineering.md)
-
+##### [Architecting](https://docs.google.com/presentation/d/16n5B31SEXJMNmVemUnbKNq6GZpiCF_fTb4AHXCODxJc/edit?usp=sharing)
 ### Week 5
-
-[HTTP and Request modules](https://hackmd.io/omgzusXTRiqQlV4A4V9njg?both) 
+##### [Continuous Integration/Travis](https://hackmd.io/vj9FRHykQ1y68Nfk0l3PWQ)
+##### [HTTP and Request modules](https://hackmd.io/omgzusXTRiqQlV4A4V9njg?both) 
 
 ### Week 6
 
