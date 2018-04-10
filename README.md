@@ -28,6 +28,8 @@ Any extra resources you find and think would be useful to your cohort add to the
 
 ### Week 7
 
+#### [HTTPS](https://github.com/fac-13/research/blob/https/week%207/httpsResearch.md)
+
 ### Week 8
 
 ## Other Resources
