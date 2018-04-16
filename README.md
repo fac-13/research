@@ -21,6 +21,9 @@ Any extra resources you find and think would be useful to your cohort add to the
 ##### [Engineering](https://github.com/fac-13/research/blob/master/week-4/engineering.md)
 ##### [Architecting](https://docs.google.com/presentation/d/16n5B31SEXJMNmVemUnbKNq6GZpiCF_fTb4AHXCODxJc/edit?usp=sharing)
 ### Week 5
+
+#### [HTTP and Request modules](https://hackmd.io/omgzusXTRiqQlV4A4V9njg?both) 
+#### [Streams & Buffers](https://github.com/fac-13/research/blob/master/week5/streams-buffers.md)
 ##### [Continuous Integration/Travis](https://github.com/fac-13/research/blob/master/week5/ContinuousIntegration.md)
 ##### [HTTP and Request modules](https://hackmd.io/omgzusXTRiqQlV4A4V9njg?both) 
 
