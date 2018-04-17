@@ -31,5 +31,6 @@ Any extra resources you find and think would be useful to your cohort add to the
 ### Week 7
 
 ### Week 8
+##### [Promises: pg-promise, request-promise and test promises (Tom + Parissa)](https://hackmd.io/7TuGDDw_R82DYqZoOnAg9g?view) 
 
 ## Other Resources
